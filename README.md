@@ -5,7 +5,6 @@ The following methods were used:
 1. Gradient Boosting
 2. XGBoost
 3. Catboost
-4. 
 
 
 **Gradient Boosting**
