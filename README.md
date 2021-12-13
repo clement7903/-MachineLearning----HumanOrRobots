@@ -17,6 +17,7 @@ The following methods were used:
 **XGBoost**
 
 -- [XGBoost + Stratified k-fold](https://github.com/clement7903/AI200/blob/a8232891ad93281da7199f313c1ccdea7e07ac40/XGBoost%20model.ipynb)
+![Results](https://user-images.githubusercontent.com/67403465/145752966-910f7a1a-212f-4741-a5da-9df226401769.png)
 
 
 
