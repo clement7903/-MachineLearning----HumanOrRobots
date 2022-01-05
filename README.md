@@ -12,7 +12,7 @@ The following methods were used:
 
 **Gradient Boosting**
 
--- [Gradient Boosting + k-fold](https://github.com/clement7903/AI200/blob/d5337fa7cd9c3cd9baf1af0c8e1b374b27d98f6b/AI200%20Kaggle%20(Gradient%20Boosting%20+%20K-Fold).ipynb)
+-- [Gradient Boosting + k-fold](https://github.com/clement7903/Human-or-Robots-/blob/8cc864c4cdce3ed3d19ec3799f2197d3ccb94e8c/Gradient%20Boosting.ipynb)
 
 **XGBoost**
 
